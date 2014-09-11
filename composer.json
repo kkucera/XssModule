@@ -1,0 +1,29 @@
+{
+    "name": "kkucera/XssModule",
+    "description": "WebPT XSS Filter Module",
+    "minimum-stability": "dev",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "git@github.com:zendframework/zf2.git"
+        },
+        {
+            "type": "vcs",
+            "url": "git@github.com:WebPT/EMRCore.git"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "*"
+    },
+    "require": {
+        "zendframework/zendframework": "2.0.6",
+        "WebPT/EMRCore": "dev-team/niagara/release/desk-1 as 1.078.000",
+        "doctrine/orm": "~2.3",
+        "apache/log4php": "2.3.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "XssModule": "src/"
+        }
+    }
+}

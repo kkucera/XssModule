@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="PHARS">
+        <CLASSES>
+          <root url="phar://$MODULE_DIR$/vendor/composer/composer.phar" />
+          <root url="phar://$MODULE_DIR$/vendor/zendframework/zendframework/tests/ZendTest/Loader/_files/PharModulePharTar.phar.tar" />
+          <root url="phar://$MODULE_DIR$/vendor/WebPT/EMRTools/vendor/pear/php/Symfony/Component/DependencyInjection/Tests/Fixtures/includes/ProjectWithXsdExtensionInPhar.phar" />
+          <root url="phar://$MODULE_DIR$/vendor/zendframework/zendframework/tests/ZendTest/Loader/_files/PharModule.phar" />
+          <root url="phar://$MODULE_DIR$/vendor/zendframework/zendframework/tests/ZendTest/Loader/_files/classmap.phar" />
+          <root url="phar://$MODULE_DIR$/vendor/zendframework/zendframework/tests/ZendTest/View/_templates/view.phar" />
+          <root url="phar://$MODULE_DIR$/vendor/WebPT/EMRCore/vendor/pear/pyrus.phar" />
+          <root url="phar://$MODULE_DIR$/vendor/zendframework/zendframework/tests/ZendTest/Loader/_files/PharModuleExplicit.phar" />
+          <root url="phar://$MODULE_DIR$/vendor/WebPT/EMRCore/vendor/pear/php/Symfony/Component/DependencyInjection/Tests/Fixtures/includes/ProjectWithXsdExtensionInPhar.phar" />
+          <root url="phar://$MODULE_DIR$/vendor/zendframework/zendframework/tests/ZendTest/Loader/_files/PharModulePharTarGz.phar.tar.gz" />
+          <root url="phar://$MODULE_DIR$/vendor/zendframework/zendframework/tests/ZendTest/Loader/_files/PharModulePharZip.phar.zip" />
+        </CLASSES>
+        <SOURCES>
+          <root url="phar://$MODULE_DIR$/vendor/composer/composer.phar" />
+          <root url="phar://$MODULE_DIR$/vendor/zendframework/zendframework/tests/ZendTest/Loader/_files/PharModulePharTar.phar.tar" />
+          <root url="phar://$MODULE_DIR$/vendor/WebPT/EMRTools/vendor/pear/php/Symfony/Component/DependencyInjection/Tests/Fixtures/includes/ProjectWithXsdExtensionInPhar.phar" />
+          <root url="phar://$MODULE_DIR$/vendor/zendframework/zendframework/tests/ZendTest/Loader/_files/PharModule.phar" />
+          <root url="phar://$MODULE_DIR$/vendor/zendframework/zendframework/tests/ZendTest/Loader/_files/classmap.phar" />
+          <root url="phar://$MODULE_DIR$/vendor/zendframework/zendframework/tests/ZendTest/View/_templates/view.phar" />
+          <root url="phar://$MODULE_DIR$/vendor/WebPT/EMRCore/vendor/pear/pyrus.phar" />
+          <root url="phar://$MODULE_DIR$/vendor/zendframework/zendframework/tests/ZendTest/Loader/_files/PharModuleExplicit.phar" />
+          <root url="phar://$MODULE_DIR$/vendor/WebPT/EMRCore/vendor/pear/php/Symfony/Component/DependencyInjection/Tests/Fixtures/includes/ProjectWithXsdExtensionInPhar.phar" />
+          <root url="phar://$MODULE_DIR$/vendor/zendframework/zendframework/tests/ZendTest/Loader/_files/PharModulePharTarGz.phar.tar.gz" />
+          <root url="phar://$MODULE_DIR$/vendor/zendframework/zendframework/tests/ZendTest/Loader/_files/PharModulePharZip.phar.zip" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="PHP">
+        <CLASSES>
+          <root url="file:///usr/local/zend/share/pear" />
+          <root url="file:///usr/local/zend/share/ZendFramework/library" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file:///usr/local/zend/share/pear" />
+          <root url="file:///usr/local/zend/share/ZendFramework/library" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>
+

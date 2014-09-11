@@ -1,0 +1,11 @@
+.buildpath
+.project
+.settings/
+.DS_Store
+vendor
+.idea
+composer.lock
+composer.phar
+local.php
+data/
+build/

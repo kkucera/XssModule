@@ -1,0 +1,12 @@
+<phpunit bootstrap="./bootstrap.php" backupGlobals="false" processIsolation="false">
+    <testsuites>
+        <testsuite name="WebPT Desk Unit Test Suite">
+            <directory>./</directory>
+        </testsuite>
+    </testsuites>
+    <filter>
+        <whitelist>
+            <directory>../../src/DeskModule</directory>
+        </whitelist>
+    </filter>
+</phpunit>
