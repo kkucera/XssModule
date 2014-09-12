@@ -12,6 +12,12 @@ return array(
         ),
     ),
 
+    'controllers' => array(
+        'invokables' => array(
+            'XssModule\Controller\Index' => 'XssModule\Controller\IndexController',
+        ),
+    ),
+
     'router' => array(
         'routes' => array(
             'XssModule' => array(
@@ -47,6 +53,12 @@ return array(
                     ),
                 ),
             ),
+        ),
+    ),
+
+    'view_manager' => array(
+        'template_path_stack' => array(
+            'XssModule' => __DIR__ . '/../view',
         ),
     ),
 
